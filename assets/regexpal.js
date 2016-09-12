@@ -710,10 +710,10 @@ These could be included, but Opera handles them incorrectly:
 			field.textbox.onfocus = null;
 		};
 	};
-	if (f.search.textbox.value === "Write your regex here. Its syntax will be highlighted automatically.") {
+	if (f.search.textbox.value === "在这里写下你的正则表达式.它的语法将自动高亮显示.") {
 		f.search.textbox.onfocus = makeResetter(f.search);
 	}
-	if (f.input.textbox.value === "Write your test data here. Matches alternate between yellow and blue.") {
+	if (f.input.textbox.value === "在这里写你的测试数据.以黄色和蓝色高亮匹配.") {
 		f.input.textbox.onfocus = makeResetter(f.input);
 	}
 
