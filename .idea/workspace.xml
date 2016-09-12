@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6c873083-b478-4d3d-8348-85131cdc54bf" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index-1.htm" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/index-1.htm" afterPath="$PROJECT_DIR$/history.html" />
     </list>
     <ignored path="Original-Regexpal.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -28,11 +26,11 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="251">
-              <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="163">
+              <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
               <folding>
                 <element signature="e#518#525#0" expanded="true" />
-                <element signature="e#4683#4689#0" expanded="true" />
+                <element signature="e#4682#4688#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -266,15 +264,15 @@
       <option name="presentableId" value="Default" />
       <updated>1473593872035</updated>
       <workItem from="1473593874702" duration="744000" />
-      <workItem from="1473639649762" duration="4628000" />
+      <workItem from="1473639649762" duration="4688000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5372000" />
+    <option name="totallyTimeSpent" value="5432000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1320" height="784" extended-state="6" />
+    <frame x="-8" y="-8" width="1320" height="784" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3793651" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -318,7 +316,7 @@
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="e#518#525#0" expanded="true" />
-            <element signature="e#4683#4689#0" expanded="true" />
+            <element signature="e#4682#4688#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -386,11 +384,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="251">
-          <caret line="25" column="0" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        <state relative-caret-position="163">
+          <caret line="21" column="48" selection-start-line="21" selection-start-column="48" selection-end-line="21" selection-end-column="48" />
           <folding>
             <element signature="e#518#525#0" expanded="true" />
-            <element signature="e#4683#4689#0" expanded="true" />
+            <element signature="e#4682#4688#0" expanded="true" />
           </folding>
         </state>
       </provider>
