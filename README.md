@@ -2,7 +2,7 @@
 regpal 0.1.4 — a JavaScript regular expression tester（汉化版）
 # regex_pattern
 正则表达式校验各种字符串的语法库
-### 正则语法校验工具[RegexTool](http://regex.gioov.net)
+### 正则语法校验工具 [RegexTool](http://regex.gioov.net)
 - `/.+/` // 判断是否已输入
 - `/^1{1}[0-9]{10}$/` //  匹配大陆手机号码，匹配实例：18869923333
 - `/^(https?://)?(\w+\.)+[a-zA-Z]+$/` // 匹配全部可能 加 `http:// https://`  或 未加 `http:// https://`，匹配实例：http://www.gioov.com ，www.gioov.com
